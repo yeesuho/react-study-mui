@@ -113,7 +113,7 @@ export default function Layout() {
           <Divider />
           <List subheader={<ListSubheader>게시글 관리</ListSubheader>}>
             <ListItem disablePadding>
-              <ListItemButton href='/post/list'>
+              <ListItemButton href='/posts'>
                 <ListItemIcon>
                   <VillaIcon />
                 </ListItemIcon>
